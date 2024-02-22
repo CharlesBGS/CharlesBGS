@@ -51,8 +51,8 @@
 ## Contatos:
 
 <div>
-  <a href="https://www.instagram.com/charlesbelchior.psi/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/charles-belchior" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/charlesbelchior.psi/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.linkedin.com/in/charles-belchior" target="_blank"  rel="noopener noreferrer"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  rel="noopener noreferrer"></a>
   
   <!-- ![Snake animation](https://github.com/CharlesBGS/CharlesBGS/blob/output/github-contribution-grid-snake.svg) -->
 
