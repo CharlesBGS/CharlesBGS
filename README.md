@@ -58,10 +58,6 @@
 <div>
   <a href="https://www.instagram.com/charlesbelchior.psi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/charles-belchior" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"></a>
-  
-  <!-- ![Snake animation](https://github.com/CharlesBGS/CharlesBGS/blob/output/github-contribution-grid-snake.svg) -->
-![snake gif](https://github.com/CharlesBGS/CharlesBGS/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 
