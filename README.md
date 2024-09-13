@@ -4,7 +4,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Sou Psicólogo Clínico Online e Cientista de Dados.
+- 🔭 Sou Psicólogo e Cientista de Dados.
 - 🌱 Atualmente estou aprendendo sobre desenvolvimento WEB.
 - 💬 Pergunte-me sobre Psicologia e Data Science.
 - ⚡ Curiosidade: Gosto de animes, ficção ciêntifica e Dota2.
