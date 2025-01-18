@@ -15,6 +15,7 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesBGS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
+
 ## Ferramentas
 <div>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
