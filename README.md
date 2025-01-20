@@ -13,22 +13,20 @@
 - ⚡ Curiosidade: Gosto de animes, ficção ciêntifica e Dota2.
 -->
 
+<div align="center">
+    <a href="https://github.com/CharlesBGS">
+    <img width = "32%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesBGS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img width = "30%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesBGS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</div>
+
 <h2 align="center">Certificações:</h2>
 <h4 align="center">Microsoft</h4>
 <div align="center">
      <a href="https://www.credly.com/badges/8719de06-09ed-418e-a04b-592ab748f583/public_url"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="200" height="200"></a>
      <a href="https://www.credly.com/badges/0770e5c4-b82e-487e-a567-ac1c58326d1e/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="200" height="200"></a>
-  <h4 align="center">AWS</h4>
+ <!-- <h4 align="center">AWS</h4> -->
      <a href="https://www.credly.com/badges/72571b82-b70d-4110-b77f-845dda91b033/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"  width="200" height="200"></a>
 <div>
-
-  
-<div align="center">
-    <a href="https://github.com/CharlesBGS">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesBGS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesBGS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
-
 
 <h2 align="center"> Ferramentas </h2>
 <div align="center">
@@ -62,6 +60,8 @@
     <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
+
+
 
 
 
