@@ -12,14 +12,9 @@
 - 💬 Pergunte-me sobre Psicologia e Data Science.
 - ⚡ Curiosidade: Gosto de animes, ficção ciêntifica e Dota2.
 -->
-
-<div align="center">
-    <a href="https://github.com/CharlesBGS">
-    <img width = "43%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesBGS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-    <img width = "40%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesBGS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
+<hr>
       
-<h2 align="center">Certificações</h2>
+<h2 align="center">Certification</h2>
 
 <!-- <h4 align="center">Microsoft</h4> -->
 
@@ -30,7 +25,7 @@
      <a href="https://www.credly.com/badges/72571b82-b70d-4110-b77f-845dda91b033/public_url" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"  width="200" height="200"></a>
 <div>
 
-<h2 align="center">Habilidades</h2>
+<h2 align="center">Skills</h2>
 
 <h3 align="center"> Data Science </h2>
 <div align="center">
@@ -74,7 +69,12 @@
     <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  -->
 </div>
-
+<hr>
+<div align="center">
+    <a href="https://github.com/CharlesBGS">
+    <img width = "43%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesBGS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img width = "40%" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesBGS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
